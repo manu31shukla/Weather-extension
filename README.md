@@ -3,7 +3,7 @@ This Chrome extension displays the current weather details of a specific locatio
 
 ## Snapshots
 ![Snapshot](Screenshot.png)
-![Snapshot](Screenshot 2.png)
+![Snapshot](Screenshot2.png)
 
 ## Installation
 To install the extension, follow these steps:
