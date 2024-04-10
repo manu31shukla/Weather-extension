@@ -1,6 +1,10 @@
 # Chrome Extension for Weather Details using OpenWeather API
 This Chrome extension displays the current weather details of a specific location, using the OpenWeather API. The user can search for the location in the popup window, and the extension will display the current weather conditions, temperature, humidity, wind speed, and an icon indicating the weather condition.
 
+## Snapshots
+![Snapshot](Screenshot.png)
+![Snapshot](Screenshot 2.png)
+
 ## Installation
 To install the extension, follow these steps:
 
